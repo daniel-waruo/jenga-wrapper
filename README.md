@@ -16,19 +16,10 @@ pip install -r requirements.txt
 
 ### Installing
 
-To install the above package with pip run the command below.
-
-```
-pip install 
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+**install via pip**
+```shell script
+pip install git+https://github.com/daniel-waruo/jenga-wrapper.git
+``` 
 
 ## Running the tests
 Go to the root directory and run the below command.
